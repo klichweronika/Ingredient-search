@@ -11,7 +11,8 @@ This app is written in Next.js. The main page presents a form with a field with 
    > - API_USER_KEY=YOUR_API_KEY_HERE
 5. Replace YOUR_API_KEY_HERE with your real key.
 6. Run in console:
-   > - yarn install && yarn dev
+   > - yarn install
+   > - yarn dev
 
 ### Scope
 
